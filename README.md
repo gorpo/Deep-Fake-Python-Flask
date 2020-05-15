@@ -8,8 +8,8 @@
    <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
        <h2 align="center">Manicomio | Python Deep Fake Flask| Deep Learning</h2>
   </h6>
-<h3> Programa de manipulação de imagens com OpenCV, Torch, Torchvision, Numpy e Pillow.</h3><br>
-<img src="https://raw.githubusercontent.com/gorpo/Deep-Fake-Python/master/Programa_Deepfake_v1/deepnude_pyqt5/images/example.jpg" width="100%"></img>
+<h3 align="center"> Programa de manipulação de imagens com OpenCV, Torch, Torchvision, Numpy e Pillow.</h3><br>
+<img src="https://github.com/gorpo/Deep-Fake-Python-Flask/blob/master/images/example.jpg" width="100%"></img>
 
 <p>Sistema de manipulação de imagem que cria imagens *** seguindo um padrão especifico, pois faz a leitura e treinamento com arquivos .lib, os quais devem ser feitos o download e inseridos posteriormente na pasta /checkpoints.</p>
 
