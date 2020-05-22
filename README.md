@@ -24,6 +24,10 @@
 - Flask
 - outras lib's ver arquivos ou logs de erro
 
+
+self.gpu_ids = [0] #FIX CPU
+self.gpu_ids = [] #FIX CPU
+
 # Instalações previas das libs que cumprem os requisitos para windows10:
 --> Torch:<br>
 <code>pip install https://download.pytorch.org/whl/cu90/torch-1.1.0-cp37-cp37m-win_amd64.whl</code>
