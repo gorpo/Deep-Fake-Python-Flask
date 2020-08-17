@@ -64,13 +64,13 @@ class Options():
 	def updateOptions(self, phase):
 
 		if phase == "correct_to_mask":
-			self.checkpoints_dir = "../checkpoints/cm.lib"
+			self.checkpoints_dir = "checkpoints/cm.lib"
 
 		elif phase == "maskref_to_maskdet":
-			self.checkpoints_dir = "../checkpoints/mm.lib"
+			self.checkpoints_dir = "checkpoints/mm.lib"
 
 		elif phase == "maskfin_to_nude":
-			self.checkpoints_dir = "../checkpoints/mn.lib"
+			self.checkpoints_dir = "checkpoints/mn.lib"
 
 # process(cv_img, mode)
 # return:

@@ -10,7 +10,7 @@ import argparse
 
 def main(inputpath,out):
 	nome = out.strip('.jpg')
-	outputpath = f'../deepnude_flask/images/{nome}_renderizada.jpg'
+	outputpath = f'images/{nome}_renderizada.jpg'
 	if isinstance(inputpath, list):
 		for item in inputpath:
 			watermark = deep_nude_process(item)
